@@ -1,0 +1,44 @@
+.banner {
+	background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+	padding-top: 250px;
+	line-height: 30px;
+}
+
+.container h1 {
+	color: white;
+	font-weight: 600;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.5);
+}
+
+.container p {
+	color: rgba(0, 0, 0, 0.8);
+	font-weight: 400;
+	font-size: 20px;
+	letter-spacing: 3px;
+}
+
+.button {
+  background-color: #52b788;
+  color: white;
+  font-weight: 700;
+  border: none;
+  padding: 14px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 15px;
+}
+
+.button:hover {
+  background-color: #C3BDA7;
+  transform: scale(1.1);
+  transition: transform .9s;
+}

@@ -1,0 +1,25 @@
+/* Fonts */
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/banner.css");
+@import url("components/footers.css");
+@import url("components/card.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Comfortaa';
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
